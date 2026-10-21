@@ -1,0 +1,2 @@
+# Agent handoff — Meridian Perps (meridiantrade.xyz)
+Read STATUS.md first. Bottom line: briefed pool-perp core is TESTNET-ONLY (chain 46630, Mock USDG). Mainnet 4663 has only dormant Staking+FeeDistributor (ELEMENT token, 0 rewards). No verified source; partial reconstruction of PerpEngine from devIykee/security-research (hunts/robinhood-chain/arcus/). Four parked hypotheses (H-001..H-004). Next action: watch for mainnet deployment (deployer 0x9958F00d2212c1fC8475CED755FCe80BadC5C871 gaining a mainnet nonce), then fork-test H-002 first.
