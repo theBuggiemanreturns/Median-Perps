@@ -1,0 +1,1 @@
+No PoCs. The briefed system has no mainnet deployment and no real collateral, so there is nothing with value at risk to fork-test. Parked hypotheses (audit-log/hypotheses/) are to be fork-tested once the system deploys to mainnet 4663.
