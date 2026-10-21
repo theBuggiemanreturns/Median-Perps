@@ -1,0 +1,4 @@
+- bytecode-testnet/: runtime bytecode (eth_getCode, chain 46630) for PerpEngine, EquityVault, PerpOrders, OracleRouter, PriceFeed, Mock USDG at the addresses listed in meridiantrade.xyz/docs/contracts.
+- bytecode/: runtime bytecode (chain 4663 mainnet) for MeridianStaking 0x9043…aA40 and FeeDistributor 0xcae4…D5b6.
+- reconstructed-devIykee/PerpEngine.sol: hand-reconstructed source from github.com/devIykee/security-research (hunts/robinhood-chain/arcus/PerpEngine.sol). Incomplete: imported libs (PerpMath, SessionLib, VaultMath, MarketConfigLib, AdlLib, IEquityVault, OracleRouter) are not available, so it does not compile. Not verified against bytecode.
+- No explorer-verified source exists for any of these contracts (as of 2026-10-21).
